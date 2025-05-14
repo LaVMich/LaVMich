@@ -5,7 +5,7 @@ Hello, I'm Michael, a Data Analyst with expertise in data scrubbing, experimenta
 ### Tools
 
 - Language: R, Python, C, Java
-- Visualization: Rstudio, Jupyter, Mini-Tab, RStudio, MatLab
+- Visualization: RStudio, Jupyter, Mini-Tab, MatLab
 
 Technical Skills
 
