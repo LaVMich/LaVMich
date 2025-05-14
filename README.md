@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**LaVMich/LaVMich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Michael, a Data Analyst with expertise in data scrubbing, experimental design, and data interpretation.
 
-Here are some ideas to get you started:
+### Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Language: R, Python, C, Java
+- Visualization: Rstudio, Jupyter, Mini-Tab, RStudio, MatLab
+
+Technical Skills
+
+- Programming Languages: Python
+- Python Packages: numpy, Pandas, Scipy, seaborn, Matplotlib, statsmodels, scikit-learn
+- Machine Learning Models: regression (linear, logistic), Naive Bayes, decision trees, random forest, AdaBoost, XGBoost
+
+Here are some of my previous [projects](https://github.com/LaVMich/portfolio)
